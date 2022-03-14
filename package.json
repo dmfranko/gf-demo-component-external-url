@@ -1,0 +1,31 @@
+{
+	"name": "@glidefast/demo-component-external-url",
+	"version": "0.0.1",
+	"private": false,
+	"description": "A demo component showing how to get an external URL",
+	"keywords": [
+		"ServiceNow",
+		"Now Experience UI Component",
+		"@glidefast/demo-component-external-url"
+	],
+	"readme": "./README.md",
+	"engines": {
+		"node": ">=8.6.0",
+		"npm": ">=5.3.0"
+	},
+	"module": "src/index.js",
+	"dependencies": {
+		"@servicenow/ui-core": "quebec",
+		"@servicenow/ui-renderer-snabbdom": "quebec",
+		"@servicenow/cli-archetype": "20.0.0",
+		"@servicenow/cli-component-archetype": "20.0.0",
+		"@servicenow/sass-theme": "quebec",
+		"@servicenow/sass-kit": "quebec",
+		"@servicenow/library-translate": "quebec"
+	},
+	"devDependencies": {
+		"@servicenow/cli-archetype-dev": "20.0.0",
+		"@servicenow/cli-component-archetype-dev": "20.0.0",
+		"react-error-overlay": "6.0.9"
+	}
+}

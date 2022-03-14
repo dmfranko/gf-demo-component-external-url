@@ -1,0 +1,1 @@
+export const CAT_LOAD_REQUESTED = 'CAT_LOAD_REQUESTED';

@@ -1,0 +1,15 @@
+{
+	"components": {
+	    "x-784437-demo-component-external-url": {
+	        "innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": ["global.core", "global.landing-page"],
+				"label": "My Component",
+				"icon": "document-outline",
+				"description": "A description of my component",
+				"category": "primitives"
+			}
+	    }
+	},
+	"scopeName": "x_784437_glidefa_1"
+}
